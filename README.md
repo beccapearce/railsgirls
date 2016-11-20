@@ -7,6 +7,7 @@ This app is allows you to store ideas with pictures and a description.
 To run this app:
 
 run these commands
+
 ```git clone https://github.com/beccapearce/railsgirls```
 
 ```cd railsgirls```
